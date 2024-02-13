@@ -1,0 +1,16 @@
+
+ Vegetable Warehouse info:
+            Warehouse limit: 3
+            Fee for container storage: 1000
+            Salary budget: 10000
+ Workers info:	1. Worker info
+	 | GUID: 5c41cdba-7e5b-4ee7-bc0a-6d988abb3896
+	 | Name: Bobo
+	 | Salary: 3000
+ Containers info:1. Container
+	 | GUID: ac772369-761c-4e8f-a905-fffc028f90da
+	 | Limit: 485(Kg)
+	 | Damage: 0,5637847853655856
+	 | Count of boxes: 0
+	 | Total Weight: 0Kg
+	 | Total Price: 0
